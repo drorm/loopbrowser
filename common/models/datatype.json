@@ -1,0 +1,28 @@
+{
+  "name": "datatype",
+  "plural": "datatypes",
+  "base": "PersistedModel",
+  "idInjection": true,
+  "properties": {
+    "string": {
+      "type": "string",
+      "required": true
+    },
+    "number": {
+      "type": "number",
+      "required": true
+    },
+    "date": {
+      "type": "date",
+      "required": true
+    },
+    "boolean": {
+      "type": "boolean",
+      "required": false
+    }
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": []
+}

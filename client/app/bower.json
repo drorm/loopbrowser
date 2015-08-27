@@ -1,0 +1,23 @@
+{
+  "name": "angular-seed",
+  "description": "A starter project for AngularJS",
+  "version": "0.0.0",
+  "homepage": "https://github.com/angular/angular-seed",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "angular": "~1.4.3",
+    "angular-route": "~1.4.3",
+    "angular-mocks": "~1.4.3",
+    "angular-bootstrap": "~0.13.1",
+    "angular-ui-grid": "~3.0.1",
+    "angular-resource": "~1.4.3",
+    "lodash": "~3.10.0",
+    "html5-boilerplate": "~5.2.0",
+    "angular-schema-form": "~0.8.4",
+    "api-check": "~7.5.0",
+    "angular-formly": "~6.21.1",
+    "angular-formly-templates-bootstrap": "~6.0.0",
+    "angular-messages": "~1.4.3"
+  }
+}
