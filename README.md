@@ -1,5 +1,5 @@
 # Model browser for loopback.js apps
-Let's you browse over your models and perform CRUD operations.
+Lets you browse over your models and perform CRUD operations.
 
 #Installation
 
